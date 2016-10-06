@@ -27,6 +27,8 @@ Topics Covered
 - Content Providers
 - URI Matcher
 - Sanity Checks
+- CursorLoader
+
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
