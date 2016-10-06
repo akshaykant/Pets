@@ -24,6 +24,9 @@ Topics Covered
 - Contract Class, SQLiteOpenHelper
 - displayDatabaseInfo() - Temporary helper method to display information in the onscreen.
 - Cursor
+- Content Providers
+- URI Matcher
+- Sanity Checks
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
